@@ -1,0 +1,16 @@
+2026-03-12 12:10:19 INFO  Utils:112 - [TestNG] Running:
+  D:\eclipse-workspace\BlueskyUPC16.8\UPCLogin.xml
+
+2026-03-12 12:10:29 INFO  UPCLogin:15 - *********Login Test case started***********
+2026-03-12 12:10:35 INFO  UPCLogin:21 - *********Logged in and logged out*********
+2026-03-12 12:10:35 INFO  UPCLogin:27 - ******Finished Test Execution*********
+2026-03-12 12:12:33 INFO  Utils:112 - [TestNG] Running:
+  D:\eclipse-workspace\BlueskyUPC16.8\UPCLogin.xml
+
+2026-03-12 12:12:41 INFO  UPCLogin:15 - *********Login Test case started***********
+2026-03-12 12:13:07 INFO  UPCLogin:21 - *********Logged in and logged out*********
+2026-03-12 12:13:07 INFO  UPCLogin:27 - ******Finished Test Execution*********
+2026-03-12 12:13:36 INFO  AddLocationZoneTC:22 - *********Login Test case started***********
+2026-03-12 12:13:42 INFO  AddLocationZoneTC:28 - *********Logged in and logged out*********
+2026-03-12 12:13:42 INFO  AddLocationZoneTC:34 - ******Finished Test Execution*********
+2026-03-12 12:13:42 INFO  AddLocationZoneTC:41 - ********Rating Zone is going to be clicked****

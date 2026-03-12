@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-12T12:13:28 IST" name="Suite" finished-at="2026-03-12T12:14:13 IST" duration-ms="44358">
+    <groups>
+    </groups>
+    <test started-at="2026-03-12T12:13:28 IST" name="Test" finished-at="2026-03-12T12:14:13 IST" duration-ms="44358">
+      <class name="testCases.AddLocationZoneTC">
+        <test-method is-config="true" signature="Setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.AddLocationZoneTC@7a220c9a]" started-at="2026-03-12T12:13:28 IST" name="Setup" finished-at="2026-03-12T12:13:36 IST" duration-ms="7808" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="TestUPCLogin()[pri:0, instance:testCases.AddLocationZoneTC@7a220c9a]" started-at="2026-03-12T12:13:36 IST" name="TestUPCLogin" finished-at="2026-03-12T12:13:42 IST" duration-ms="5713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUPCLogin -->
+        <test-method signature="TestAddLocationZone()[pri:0, instance:testCases.AddLocationZoneTC@7a220c9a]" started-at="2026-03-12T12:13:42 IST" name="TestAddLocationZone" finished-at="2026-03-12T12:14:12 IST" depends-on-methods="testCases.UPCLogin.TestUPCLogin" duration-ms="30538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAddLocationZone -->
+        <test-method is-config="true" signature="Exit()[pri:0, instance:testCases.AddLocationZoneTC@7a220c9a]" started-at="2026-03-12T12:14:12 IST" name="Exit" finished-at="2026-03-12T12:14:13 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exit -->
+      </class> <!-- testCases.AddLocationZoneTC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
