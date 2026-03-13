@@ -103,7 +103,7 @@
 
             <configuration>
                 <suiteXmlFiles>
-                    <suiteXmlFile>testng.xml</suiteXmlFile>
+                    <suiteXmlFile>UPCLogin.xml</suiteXmlFile>
                 </suiteXmlFiles>
             </configuration>
 

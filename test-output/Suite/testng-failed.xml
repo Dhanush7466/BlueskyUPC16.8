@@ -2,16 +2,17 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
-    <parameter name="os" value="Windows"/>
+    <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.UPCLogin">
+      <class name="testCases.AddLocationZoneTC">
         <methods>
+          <include name="TestAddLocationZone"/>
           <include name="TestUPCLogin"/>
           <include name="Exit"/>
           <include name="Setup"/>
         </methods>
-      </class> <!-- testCases.UPCLogin -->
+      </class> <!-- testCases.AddLocationZoneTC -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

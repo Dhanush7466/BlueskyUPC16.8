@@ -1,0 +1,9 @@
+testCases\DashboardTest.class
+testCases\UPCLogin.class
+pageObjects\LoginPage.class
+pageObjects\BasePage.class
+pageObjects\RatingZone.class
+testCases\LocationZoneTest.class
+testBase\BaseClass.class
+testCases\AddLocationZoneTC.class
+pageObjects\DashboardPage.class
